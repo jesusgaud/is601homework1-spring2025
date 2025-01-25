@@ -6,3 +6,4 @@
 4. Create homework project 1
 5. Create a branch
 6. Merge locally as well as on GitHub
+7. Create 3rd commit
